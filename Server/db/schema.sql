@@ -1,0 +1,4 @@
+CREATE TABLE favourites (
+  id VARCHAR(255) PRIMARY KEY,
+  joke TEXT NOT NULL
+);
